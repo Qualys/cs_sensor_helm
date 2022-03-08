@@ -5,7 +5,7 @@ THIS SCRIPT IS PROVIDED TO YOU "AS IS." TO THE EXTENT PERMITTED BY LAW, QUALYS H
 
 # This repo is deprecated
 
-# Location for offically supported helm charts is - https://github.com/Qualys/cs_sensor/helm-chart-scripts/
+# Location for offically supported helm charts is - https://github.com/Qualys/cs_sensor/tree/master/helm-chart-scripts/
 
 
 Helm is a package manager for Kubernetes and CS Sensor can be deployed using the helm chart, to do so you need to first update the helm values file with customer id, activation id, and Qualys URL.
